@@ -8,6 +8,9 @@ A SwiftUI component for displaying and interacting with star ratings. This packa
 - Interactive star selection
 - Easy integration with SwiftUI projects
 
+# Preview
+![](https://github.com/niravramani72/NRStarRatingView/blob/main/ratingview.gif)
+
 ## Installation
 
 ### Using Swift Package Manager
